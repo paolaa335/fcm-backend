@@ -1,0 +1,15 @@
+{
+  "name": "fcm-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.5.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
+
